@@ -1,0 +1,6 @@
+name: Dynamite
+main: Nephilan\Dynamite
+api: [3.0.0]
+author: Nephilan
+version: 0.1
+description: plugin dynamite fait par Nephilan
